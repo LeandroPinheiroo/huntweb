@@ -28,5 +28,14 @@
     color: #da552f;
     font-weight: bold;
     font-size: 16px;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: all 0.2s;
 }
 
+.product-list article a:hover{
+    background: #da552f;
+    color: #000;
+}
