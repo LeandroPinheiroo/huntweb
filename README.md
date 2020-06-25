@@ -1,2 +1,2 @@
 # huntweb
- Project created with React JS to learn the framework
+ Project created with React JS to learn the lib
